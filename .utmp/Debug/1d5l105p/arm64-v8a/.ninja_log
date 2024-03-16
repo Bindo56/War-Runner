@@ -1,0 +1,5 @@
+# ninja log v5
+1	143	7240805565647449	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a01955f5b631880d
+144	294	7240805566716674	C:/Users/Bindo/Autodesk/Endless Runner2/Library/PramData/AndroidApplicationController/Cache/ONEMAN.in/gradle-project/unityLibrary/build/intermediates/cxx/Debug/1d5l105p/obj/arm64-v8a/libswappywrapper.so	3e105addf5f4b458
+2	100	7240821561565255	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a01955f5b631880d
+101	237	7240821562532103	C:/Users/Bindo/Autodesk/Endless Runner2/Library/PramData/AndroidApplicationController/Cache/ONEMAN.in/gradle-project/unityLibrary/build/intermediates/cxx/Debug/1d5l105p/obj/arm64-v8a/libswappywrapper.so	3e105addf5f4b458
